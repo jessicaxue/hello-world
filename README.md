@@ -1,3 +1,3 @@
 # hello-world
 Hi everyone!
-Jessica here, I am learning and and practising javascript recently!
+Jessica here, This is my test project on GH. I am learning and and practising javascript recently! 
